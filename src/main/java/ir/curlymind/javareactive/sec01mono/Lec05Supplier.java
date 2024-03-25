@@ -1,4 +1,4 @@
-package ir.curlymind.javareactive.mono;
+package ir.curlymind.javareactive.sec01mono;
 
 import ir.curlymind.javareactive.Utils;
 import reactor.core.publisher.Mono;

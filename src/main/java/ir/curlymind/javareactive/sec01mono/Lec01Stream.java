@@ -1,4 +1,4 @@
-package ir.curlymind.javareactive.mono;
+package ir.curlymind.javareactive.sec01mono;
 
 import java.util.stream.Stream;
 
