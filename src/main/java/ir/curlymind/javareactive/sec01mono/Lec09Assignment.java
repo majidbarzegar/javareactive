@@ -12,9 +12,9 @@ public class Lec09Assignment {
 
         write.subscribe(Utils.subscriber("file write"));
         read.subscribe(Utils.subscriber("file read"));
+        Utils.sleepSeconds(20);
         delete.subscribe(Utils.subscriber("file delete"));
 
     }
-
 
 }
