@@ -1,4 +1,4 @@
-package ir.curlymind.javareactive.sec02Flux;
+package ir.curlymind.javareactive.sec02flux;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
