@@ -25,6 +25,6 @@ public class OrderProcessor {
             p.setItem("Free - " + p.getItem());
             p.setCategory("Kids");
             return p;
-        })
+        });
     }
 }
